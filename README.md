@@ -11,6 +11,8 @@ tests would be run on an add-on file. It sort of looks like a torrent file
 randomly getting filled in.
 ```
 
+![example usage gif](./example.gif)
+
 #### usage
 
 ``` javascript

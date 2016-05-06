@@ -6,4 +6,4 @@ const p = new PseudoProgress({
 
 p.animate();
 
-setTimeout(() => p.finish(), 4000);
+setTimeout(() => p.finish(), 8000);
